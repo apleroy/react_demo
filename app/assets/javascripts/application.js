@@ -14,5 +14,4 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require react
-//= require comments
 //= require_tree .
